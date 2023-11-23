@@ -1,9 +1,9 @@
 package extensions
 
 import (
+	"github.com/yuin/goldmark"
 	"github.com/Lotzyprod/crewpvp-goldmark-extensions/ast"
 	gast "github.com/yuin/goldmark/ast"
-	"crew_extensions/ast"
 	"github.com/yuin/goldmark/parser"
 	"github.com/yuin/goldmark/renderer"
 	"github.com/yuin/goldmark/renderer/html"

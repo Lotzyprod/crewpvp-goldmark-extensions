@@ -1,5 +1,5 @@
 module github.com/Lotzyprod/crewpvp-goldmark-extensions
 
-go 1.13
+go 1.15
 
-require github.com/yuin/goldmark v1.1.12
+require github.com/yuin/goldmark v1.3.7
